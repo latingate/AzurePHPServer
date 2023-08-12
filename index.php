@@ -1,3 +1,4 @@
+<h2>Gal's PHP App / Ubunto Server / Azure</h2>
 <?php
 // prints e.g. 'Current PHP version: 4.1.1'
 echo 'Current PHP version: ' . phpversion();
